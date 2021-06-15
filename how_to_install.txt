@@ -1,1 +1,0 @@
-cd ~ && tar -xzpf ioControlDelivery.tar.gz && cd ./stage && chmod +x install.sh && ./install.sh
